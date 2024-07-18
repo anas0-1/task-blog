@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "9d9b",
+      "name": "anas",
+      "password": "anas",
+      "isConnected": true
+    },
+    {
+      "id": "9383",
+      "name": "anas1",
+      "password": "anas",
+      "isConnected": true
+    }
+  ],
+  "posts": [
+    {
+      "id": "ae49",
+      "title": "helloAZDAZ",
+      "body": "HAMIDzadzadaz",
+      "userId": "9d9b"
+    }
+  ]
+}
