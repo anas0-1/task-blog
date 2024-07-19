@@ -3,7 +3,7 @@
     {
       "id": "9d9b",
       "name": "anas",
-      "password": "anas",
+      "password": "anasA",
       "isConnected": true
     },
     {
@@ -16,8 +16,23 @@
   "posts": [
     {
       "id": "ae49",
-      "title": "helloAZDAZ",
-      "body": "HAMIDzadzadaz",
+      "title": "test",
+      "body": "test1",
+      "userId": "9d9b"
+    },
+    {
+      "id": "17f4",
+      "title": "hello",
+      "body": "hello",
+      "userId": "9d9b"
+    }
+  ],
+  "todos": [
+    {},
+    {
+      "id": "a69e",
+      "title": "adaz",
+      "description": "afefaeadzdaf",
       "userId": "9d9b"
     }
   ]
