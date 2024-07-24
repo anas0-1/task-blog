@@ -11,6 +11,12 @@
       "name": "anas1",
       "password": "anas",
       "isConnected": true
+    },
+    {
+      "id": "45c1",
+      "name": "user1",
+      "password": "user1",
+      "isConnected": true
     }
   ],
   "posts": [
@@ -27,6 +33,12 @@
       "title": "todo1",
       "description": "test123",
       "userId": "9d9b"
+    },
+    {
+      "id": "dae1",
+      "title": "todo",
+      "description": "2",
+      "userId": "45c1"
     }
   ]
 }
