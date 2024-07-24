@@ -17,22 +17,15 @@
     {
       "id": "ae49",
       "title": "test",
-      "body": "test1",
-      "userId": "9d9b"
-    },
-    {
-      "id": "17f4",
-      "title": "hello",
-      "body": "hello",
+      "body": "test1234",
       "userId": "9d9b"
     }
   ],
   "todos": [
-    {},
     {
       "id": "a69e",
-      "title": "adaz",
-      "description": "afefaeadzdaf",
+      "title": "todo1",
+      "description": "test123",
       "userId": "9d9b"
     }
   ]
